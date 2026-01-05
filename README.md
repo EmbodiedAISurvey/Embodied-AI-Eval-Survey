@@ -17,15 +17,18 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 
 - [News and Updates](#news-and-updates)
 - [What to evaluation](#What-to-evaluation)
-  - [Perception and
-Understandin](#Perception-and-Understandin)
-  - [Robustness, ethics, biases, and trustworthiness](#robustness-ethics-biases-and-trustworthiness)
-  - [Social science](#social-science)
-  - [Natural science and engineering](#natural-science-and-engineering)
-  - [Medical applications](#medical-applications)
-  - [Agent applications](#agent-applications)
-  - [Other applications](#other-applications)
-- [Where to evaluate](#where-to-evaluate)
+  - [Perception and Understanding](#Perception-and-Understanding)
+  - [Cognition and Reasoning](#Cognition-and-Reasoning)
+  - [Task Planning and Decision-Making](#Task-Planning-and-Decision-Making)
+  - [Action Execution and Control](#Action-Execution-and-Control)
+  - [Trustworthiness and Generalization](#Trustworthiness-and-Generalization)
+- [Where to evaluate](#Where-to-evaluate)
+  - [Simulators](#Simulators)
+  - [Datasets](#Datasets)
+  - [Benchmarks](#Benchmarks)
+- [How to evaluate](#How-to-evaluate)
+  - [Core Performance Evaluation](#Core-Performance-Evaluation)
+  - [Multidimensional and Hybrid Evaluation](#Multidimensional-and-Hybrid-Evaluation)
 - [Contributing](#contributing)
 - [Citation](#citation)
 - [Acknowledgments](#acknowledgements)
@@ -35,9 +38,9 @@ Understandin](#Perception-and-Understandin)
 ## 📢 News and updates <a id="news-and-updates"></a>
 - **[2026-01-05]** We created this repository.
 
-## 🗺️ What to evaluation <a id="What-to-evaluation"></a>
+## 📚 What to evaluation <a id="What-to-evaluation"></a>
 
-### Perception and Understandin
+### Perception and Understanding <a id="Perception-and-Understanding"></a>
 
 #### Spatial Perception and Understanding
 - **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
@@ -53,26 +56,86 @@ Understandin](#Perception-and-Understandin)
 - **[Paper Title 2]**. [Author 1], et al. **arXiv** [Year]. [[Paper](链接)]
 - 论文全标题. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
 
+### Cognition and Reasoning <a id="Cognition-and-Reasoning"></a>
+
+#### Cognitive and Commonsense Reasoning
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+#### Spatiotemporal Reasoning
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+### Task Planning and Decision-Making <a id="Task-Planning-and-Decision-Making"></a>
+#### Long-Horizon Dependency and Episodic Memory
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+#### Planning Grounding and the Execution Gap
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+#### Dynamic Adaptation and Closed-Loop Correction
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+#### Multi-Agent Collaboration and Human-Robot Trust
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+### Action Execution and Control <a id="Action-Execution-and-Control"></a>
+#### Control Policies and Physical Dynamics
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+#### Object Manipulation and Navigation
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+#### Collaboration and Interactive Systems
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
 
 
+### Trustworthiness and Generalization <a id="Trustworthiness-and-Generalization"></a>
+#### Safety
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
 
-## 📚 Paper List
+#### Robustness
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
 
-### 1. [一级分类：例如 Natural Language Processing]
+#### Generalization
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
 
-#### [二级分类：例如 Question Answering]
-- **[Paper Title 1]**. [Author 1], [Author 2], et al. **[Conference/Journal]** [Year]. [[Paper]([这里填论文PDF链接])] [[Code]([这里填代码链接])]
-- **[Paper Title 2]**. [Author 1], et al. **arXiv** [Year]. [[Paper](链接)]
 
-#### [二级分类：例如 Reasoning]
-- **[Paper Title 3]**. ...
+## 📚 Where to evaluate <a id="Where-to-evaluate"></a>
 
-### 2. [一级分类：例如 Computer Vision]
+### Simulators <a id="Simulators"></a>
 
-#### [二级分类：例如 Image Generation]
-- ...
+#### General-Purpose Physics Simulators
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
 
-## 🤝 Contributing[未修改]
+
+#### Task-Oriented Simulators
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+### Datasets <a id="Datasets"></a>
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+### Benchmarks <a id="Benchmarks"></a> 
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+## 📚 How to evaluate <a id="How-to-evaluate"></a> 
+
+### Core Performance Evaluation <a id="Core-Performance-Evaluation"></a> 
+#### Task Performance
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+#### Efficiency and Quality
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+#### Safety and Constraints
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+### Multidimensional and Hybrid Evaluation <a id="Multidimensional-and-Hybrid-Evaluation"></a>
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+
+## 🤝 Contributing[未修改] <a id="contributing"></a> 
 We welcome contributions to LLM-eval-survey! If you'd like to contribute, please follow these steps:
 
 Fork the repository.
@@ -80,7 +143,7 @@ Create a new branch with your changes.
 Submit a pull request with a clear description of your changes.
 You can also open an issue if you have anything to add or comment.
 
-## 📝 Citation[还未挂在axiv上面]
+## 📝 Citation[还未挂在axiv上面]  <a id="citation"></a> 
 ```bibtex
 @article{your_surname202Xtitle,
   title={Your Paper Title},
@@ -88,3 +151,6 @@ You can also open an issue if you have anything to add or comment.
   journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={202X}
 }
+```
+## 🗺️ Acknowledgments  <a id="acknowledgements"></a> 
+感谢
