@@ -16,8 +16,9 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 ## Table of Contents
 
 - [News and Updates](#news-and-updates)
-- [Embodied AI Eval Survey](#Embodied-Eval-Survey)
-  - [Natural language processing](#natural-language-processing)
+- [What to evaluation](#What-to-evaluation)
+  - [Perception and
+Understandin](#Perception-and-Understandin)
   - [Robustness, ethics, biases, and trustworthiness](#robustness-ethics-biases-and-trustworthiness)
   - [Social science](#social-science)
   - [Natural science and engineering](#natural-science-and-engineering)
@@ -34,10 +35,26 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 ## 📢 News and updates <a id="news-and-updates"></a>
 - **[2026-01-05]** We created this repository.
 
-## 🗺️ Embodied AI Eval Survey <a id="Embodied-Eval-Survey"></a>
-The papers are organized according to our survey. The taxonomy is shown below:
+## 🗺️ What to evaluation <a id="What-to-evaluation"></a>
 
-![Taxonomy]([这里放入你图片的链接，你可以先把图片上传到仓库里，然后复制链接填在这里])
+### Perception and Understandin
+
+#### Spatial Perception and Understanding
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+#### Scene and Physics Understanding
+- **[Paper Title 1]**. [Author 1], [Author 2], et al. **[Conference/Journal]** [Year]. [[Paper]([这里填论文PDF链接])] [[Code]([这里填代码链接])]
+- **[Paper Title 2]**. [Author 1], et al. **arXiv** [Year]. [[Paper](链接)]
+
+
+#### Social and Human-like Understanding
+- **[Paper Title 1]**. [Author 1], [Author 2], et al. **[Conference/Journal]** [Year]. [[Paper]([这里填论文PDF链接])] [[Code]([这里填代码链接])]
+- **[Paper Title 2]**. [Author 1], et al. **arXiv** [Year]. [[Paper](链接)]
+- 论文全标题. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+
+
 
 ## 📚 Paper List
 
@@ -55,9 +72,15 @@ The papers are organized according to our survey. The taxonomy is shown below:
 #### [二级分类：例如 Image Generation]
 - ...
 
-## 🤝 Contributing
-Feel free to create a Pull Request or open an Issue to add new related papers.
-## 📝 Citation
+## 🤝 Contributing[未修改]
+We welcome contributions to LLM-eval-survey! If you'd like to contribute, please follow these steps:
+
+Fork the repository.
+Create a new branch with your changes.
+Submit a pull request with a clear description of your changes.
+You can also open an issue if you have anything to add or comment.
+
+## 📝 Citation[还未挂在axiv上面]
 ```bibtex
 @article{your_surname202Xtitle,
   title={Your Paper Title},
