@@ -43,8 +43,11 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 ### Perception and Understanding <a id="Perception-and-Understanding"></a>
 
 #### Spatial Perception and Understanding
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+- **1. Vision-language models for embodied AI.** Smith J. **IEEE Transactions on Pattern Analysis and Machine Intelligence** 2020. [[paper](LINK)]
+- **2. Mini-behavior: A procedurally generated benchmark for long-horizon decision-making in embodied ai.** Jin Emily et al. **arXiv** 2023. [[paper](LINK)]
+- **3. Behavior: Benchmark for everyday household activities in virtual, interactive, and ecological environments.** Srivastava Sanjana et al. **Conference on robot learning** 2022. [[paper](LINK)]
+- **4. Behavior-1k: A human-centered, embodied ai benchmark with 1,000 everyday activities and realistic simulation.** Li Chengshu et al. **arXiv** 2024. [[paper](LINK)]
+- **5. Cookbench: A long-horizon embodied planning benchmark for complex cooking scenarios.** Cai Muzhen et al. **arXiv** 2025. [[paper](LINK)]
 
 #### Scene and Physics Understanding
 - **[Paper Title 1]**. [Author 1], [Author 2], et al. **[Conference/Journal]** [Year]. [[Paper]([这里填论文PDF链接])] [[Code]([这里填代码链接])]
