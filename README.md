@@ -437,6 +437,5 @@ You can also open an issue if you have anything to add or comment. -->
   year={202X}
 }
 ``` -->
-## 🗺️ Acknowledgments  <a id="acknowledgements"></a> 
-Thank Everyone!
-Thank you for reading!
+<!-- ## 🗺️ Acknowledgments  <a id="acknowledgements"></a> 
+Thank my partners! -->
