@@ -16,16 +16,16 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 ## Table of Contents
 
 - [News and Updates](#news-and-updates)
-- [What to evaluation](#what-to-evaluation)
-  - [Perception and Understanding](#Perception-and-Understanding)
-  - [Cognition and Reasoning](#Cognition-and-Reasoning)
-  - [Task Planning and Decision-Making](#Task-Planning-and-Decision-Making)
-  - [Action Execution and Control](#Action-Execution-and-Control)
-  - [Trustworthiness and Generalization](#Trustworthiness-and-Generalization)
-- [Where to evaluate](#Where-to-evaluate)
-  - [Simulators](#Simulators)
-  - [Datasets](#Datasets)
-  - [Benchmarks](#Benchmarks)
+- [What to evaluate](#what-to-evaluate)
+  - [Perception and Understanding](#perception-and-understanding)
+  - [Cognition and Reasoning](#cognition-and-reasoning)
+  - [Task Planning and Decision-Making](#task-planning-and-decision-making)
+  - [Action Execution and Control](#action-execution-and-control)
+  - [Trustworthiness and Generalization](#trustworthiness-and-generalization)
+- [Where to evaluate](#where-to-evaluate)
+  - [Simulators](#simulators)
+  - [Datasets](#datasets)
+  - [Benchmarks](#benchmarks)
 <!-- - [How to evaluate](#How-to-evaluate)
   - [Core Performance Evaluation](#Core-Performance-Evaluation)
   - [Multidimensional and Hybrid Evaluation](#Multidimensional-and-Hybrid-Evaluation)
@@ -38,9 +38,9 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 ## 📢 News and updates <a id="news-and-updates"></a>
 - **[2026-01-05]** We created this repository.
 
-## 📚 What to evaluation 
+## 📚 What to evaluation <a id="what-to-evaluate"></a>
 
-### Perception and Understanding <a id="Perception-and-Understanding"></a>
+### Perception and Understanding <a id="perception-and-understanding"></a>
 
 #### Spatial Perception and Understanding
 1. An evaluation of the RGB-D SLAM system. Felix Endres et al. ICRA 2012. [[paper](https://ieeexplore.ieee.org/abstract/document/6225199)]
@@ -82,7 +82,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 6. MEMO-Bench: A Multiple Benchmark for Text-to-Image and Multimodal Large Language Models on Human Emotion Analysis. Yingjie Zhou et al. arXiv 2024. [[paper](https://arxiv.org/abs/2411.11235)]
 7. EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?. Xinyan Chen et al. arXiv 2025. [[paper](https://arxiv.org/abs/2503.16545)][[code&data](https://github.com/xinyan-cxy/EmpathyAgent)]
 
-### Cognition and Reasoning <a id="Cognition-and-Reasoning"></a>
+### Cognition and Reasoning <a id="cognition-and-reasoning"></a>
 
 #### Cognitive and Commonsense Reasoning
 1. Urbanvideo-bench: Benchmarking vision-language models on embodied intelligence with video data in urban spaces. Baining Zhao et al. arXiv 2025. [[paper](https://arxiv.org/abs/2503.06157)][[projectpage](https://embodiedcity.github.io/UrbanVideo-Bench/)][[data](https://huggingface.co/datasets/EmbodiedCity/UrbanVideo-Bench)][[code](https://github.com/EmbodiedCity/UrbanVideo-Bench.code)]
@@ -130,7 +130,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 19. Eyes wide open: Ego proactive video-llm for streaming video. Yulin Zhang et al. NeurIPS 2025. [[paper](https://arxiv.org/abs/2510.14560)][[projectpage](https://zhangyl4.github.io/publications/eyes-wide-open/)]
 20. RoboSeek: You Need to Interact with Your Objects. Yibo Peng et al. arXiv 2025. [[paper](https://arxiv.org/abs/2509.17783)][[projectpage](https://russderrick.github.io/Roboseek/)]
 
-### Task Planning and Decision-Making <a id="Task-Planning-and-Decision-Making"></a>
+### Task Planning and Decision-Making <a id="task-planning-and-decision-making"></a>
 #### Long-Horizon Dependency and Episodic Memory
 1. Mini-behavior: A procedurally generated benchmark for long-horizon decision-making in embodied ai. Emily Jin et al. arXiv 2023. [[paper](LINK)]
 2. Behavior: Benchmark for everyday household activities in virtual, interactive, and ecological environments. Sanjana Srivastava et al. Conference on robot learning 2022. [[paper](LINK)]
@@ -190,7 +190,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 5. Dialfred: Dialogue-enabled agents for embodied instruction following. Xiaofeng Gao et al. IEEE Robotics and Automation Letters 2022. [[paper](LINK)]
 6. Towards autonomous micromobility through scalable urban simulation. Wayne Wu et al. CVPR 2025. [[paper](LINK)]
 
-### Action Execution and Control <a id="Action-Execution-and-Control"></a>
+### Action Execution and Control <a id="action-execution-and-control"></a>
 #### Control Policies and Physical Dynamics
 1. Deepmind control suite. Yuval Tassa et al. arXiv 2018. [[paper](LINK)]
 2. Evaluating real-world robot manipulation policies in simulation. Xuanlin Li et al. arXiv 2024. [[paper](LINK)]
@@ -234,7 +234,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 9. DialNav: Multi-turn Dialog Navigation with a Remote Guide. Leekyeung Han et al. ICCV 2025. [[paper](LINK)]
 10. Switch-JustDance: Benchmarking Whole Body Motion Tracking Policies Using a Commercial Console Game. Jeonghwan Kim et al. arXiv 2025. [[paper](LINK)]
 
-### Trustworthiness and Generalization <a id="Trustworthiness-and-Generalization"></a>
+### Trustworthiness and Generalization <a id="trustworthiness-and-generalization"></a>
 #### Safety
 1. Embodied scene understanding for vision language models via metavqa. Weizhen Wang et al. CVPR 2025. [[paper](LINK)]
 2. The Human Robot Social Interaction (HSRI) Dataset: Benchmarking Foundational Models' Social Reasoning. Dong Won Lee et al. arXiv 2025. [[paper](LINK)]
@@ -331,9 +331,9 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 30. UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos. Mingxuan Liu et al. arXiv 2025. [[paper](LINK)]
 31. 3d-grand: A million-scale dataset for 3d-llms with better grounding and less hallucination. Jianing Yang et al. CVPR 2025. [[paper](LINK)]
 
-## 📚 Where to evaluate <a id="Where-to-evaluate"></a>
+## 📚 Where to evaluate <a id="where-to-evaluate"></a>
 
-### Simulators <a id="Simulators"></a>
+### Simulators <a id="simulators"></a>
 
 #### General-Purpose Physics Simulators
 1. Design and use paradigms for gazebo, an open-source multi-robot simulator. Nathan Koenig et al. 2004 IEEE/RSJ international conference on intelligent robots and systems (IROS)(IEEE Cat. No. 04CH37566) 2004. [[paper](LINK)]
@@ -364,7 +364,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 19. Robogen: Towards unleashing infinite data for automated robot learning via generative simulation. Yufei Wang et al. arXiv 2023. [[paper](LINK)]
 20. Infiniteworld: A unified scalable simulation framework for general visual-language robot interaction. Pengzhen Ren et al. arXiv 2024. [[paper](LINK)]
 
-### Datasets <a id="Datasets"></a>
+### Datasets <a id="datasets"></a>
 1. Matterport3d: Learning from rgb-d data in indoor environments. Angel Chang et al. arXiv 2017. [[paper](LINK)]
 2. Stay on the path: Instruction fidelity in vision-and-language navigation. Vihan Jain et al. arXiv 2019. [[paper](LINK)]
 3. Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments. Peter Anderson et al. CVPR 2018. [[paper](LINK)]
@@ -384,7 +384,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 17. Jrdb: A dataset and benchmark of egocentric robot visual perception of humans in built environments. Roberto Martin-Martin et al. IEEE transactions on pattern analysis and machine intelligence 2021. [[paper](LINK)]
 18. Embodiedscan: A holistic multi-modal 3d perception suite towards embodied ai. Tai Wang et al. CVPR 2024. [[paper](LINK)]
 19. Covla: Comprehensive vision-language-action dataset for autonomous driving. Hidehisa Arai et al. 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025. [[paper](LINK)]
-### Benchmarks <a id="Benchmarks"></a> 
+### Benchmarks <a id="benchmarks"></a> 
 1. Deepmind control suite. Yuval Tassa et al. arXiv 2018. [[paper](LINK)]
 2. Rlbench: The robot learning benchmark \& learning environment. Stephen James et al. IEEE Robotics and Automation Letters 2020. [[paper](LINK)]
 3. Meta-world: A benchmark and evaluation for multi-task and meta reinforcement learning. Tianhe Yu et al. Conference on robot learning 2020. [[paper](LINK)]
