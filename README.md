@@ -16,7 +16,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 ## Table of Contents
 
 - [News and Updates](#news-and-updates)
-- [What to evaluation]
+- [What to evaluation](#what-to-evaluate)
   - [Perception and Understanding](#Perception-and-Understanding)
   - [Cognition and Reasoning](#Cognition-and-Reasoning)
   - [Task Planning and Decision-Making](#Task-Planning-and-Decision-Making)
