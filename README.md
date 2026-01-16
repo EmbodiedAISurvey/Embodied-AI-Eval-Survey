@@ -12,6 +12,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 (We recommend copying lygao25@mails.jlu.edu.cn to ensure your message reaches us.)
 
 ![结构图示例](./assets/tree-picture1.png)
+![结构图示例](./assets/jiegoutunew.pdf)
 
 ## Table of Contents
 
@@ -407,7 +408,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 20. SoMi-ToM: Evaluating Multi-Perspective Theory of Mind in Embodied Social Interactions. Xianzhe Fan et al. arXiv 2025. [[paper](LINK)]
 21. Can Vision Language Models Understand Mimed Actions?. Hyundong Justin Cho et al. ACL 2025. [[paper](LINK)]
 
-## 📚 How to evaluate <a id="How-to-evaluate"></a> 
+<!-- ## 📚 How to evaluate <a id="How-to-evaluate"></a> 
 
 ### Core Performance Evaluation <a id="Core-Performance-Evaluation"></a> 
 #### Task Performance
@@ -417,18 +418,18 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 #### Safety and Constraints
 - **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
 ### Multidimensional and Hybrid Evaluation <a id="Multidimensional-and-Hybrid-Evaluation"></a>
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)] -->
 
-
+<!-- 
 ## 🤝 Contributing[未修改] <a id="contributing"></a> 
 We welcome contributions to Embodied-AI-Eval-Survey! If you'd like to contribute, please follow these steps:
 
 Fork the repository.
 Create a new branch with your changes.
 Submit a pull request with a clear description of your changes.
-You can also open an issue if you have anything to add or comment.
+You can also open an issue if you have anything to add or comment. -->
 
-## 📝 Citation[还未挂在axiv上面]  <a id="citation"></a> 
+<!-- ## 📝 Citation[还未挂在axiv上面]  <a id="citation"></a> 
 ```bibtex
 @article{your_surname202Xtitle,
   title={Your Paper Title},
@@ -436,6 +437,6 @@ You can also open an issue if you have anything to add or comment.
   journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={202X}
 }
-```
+``` -->
 ## 🗺️ Acknowledgments  <a id="acknowledgements"></a> 
 感谢
