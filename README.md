@@ -7,7 +7,7 @@ A collection of papers and resources related to evaluations on Embodied AI.
 
 NOTE: As we cannot update the arXiv paper in real time, please refer to this repo for the latest updates and the paper may be updated later. We also welcome any pull request or issues to help us make this survey perfect. Your contributions will be acknowledged in acknowledgements.
 
-Please let us know if you find out a mistake or have any suggestions by e-mail: houly25@mails.jlu.edu.cn.
+Please let us know if you find out a mistake or have any suggestions by e-mail: houly25@mails.jlu.edu.cn.11
 
 (We recommend copying lygao25@mails.jlu.edu.cn to ensure your message reaches us.)
 
