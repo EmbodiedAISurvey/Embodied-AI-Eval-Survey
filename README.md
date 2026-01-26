@@ -336,12 +336,10 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 ### Simulators <a id="simulators"></a>
 
 #### General-Purpose Physics Simulators
-1. Design and use paradigms for gazebo, an open-source multi-robot simulator. Nathan Koenig et al. 2004 IEEE/RSJ international conference on intelligent robots and systems (IROS)(IEEE Cat. No. 04CH37566) 2004. [[paper](LINK)]
-2. Pybullet, a python module for physics simulation for games, robotics and machine learning. Erwin Coumans et al. Venue 2016. [[paper](LINK)]
-3. NVIDIA Isaac Sim. NVIDIA Venue 2022. [[paper](\urlhttps://developer.nvidia.com/isaac-sim)]
-4. Chain-of-thought prompting elicits reasoning in large language models. Jason Wei et al. NeurIPS 2022. [[paper](LINK)]
-
-
+1. Design and use paradigms for gazebo, an open-source multi-robot simulator. Nathan Koenig et al. 2004 IEEE/RSJ international conference on intelligent robots and systems (IROS)(IEEE Cat. No. 04CH37566) 2004. [[paper](https://ieeexplore.ieee.org/document/1389727/)]
+2. Pybullet, a python module for physics simulation for games, robotics and machine learning. Erwin Coumans et al. Venue 2016. [[projectpage](https://pybullet.org/wordpress/)]
+3. NVIDIA Isaac Sim. NVIDIA Venue 2022. [[projectpage](https://developer.nvidia.com/isaac-sim)]
+4. Chain-of-thought prompting elicits reasoning in large language models. Jason Wei et al. NeurIPS 2022. [[paper](https://arxiv.org/abs/2201.11903)]
 #### Task-Oriented Simulators
 1. Sapien: A simulated part-based interactive environment. Fanbo Xiang et al. CVPR 2020. [[paper](https://arxiv.org/abs/2003.08515)]
 [[projectpage](https://sapien.ucsd.edu/)]
