@@ -151,8 +151,8 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 
 #### Planning Grounding and the Execution Gap
 
-1. Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks. Oier Mees et al. IEEE Robotics and Automation Letters 2022. [[paper](LINK)]
-2. Mind and motion aligned: a joint evaluation ISAACSIM benchmark for task planning and low-level policies in mobile manipulation. Nikita Kachaev et al. arXiv 2025. [[paper](LINK)]
+1. Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks. Oier Mees et al. IEEE Robotics and Automation Letters 2022.[[paper](https://arxiv.org/abs/2112.03227)][[projectpage](http://calvin.cs.uni-freiburg.de/)]
+2. Mind and motion aligned: a joint evaluation ISAACSIM benchmark for task planning and low-level policies in mobile manipulation. Nikita Kachaev et al. arXiv 2025. [[paper](https://arxiv.org/abs/2508.15663)]
 3. The threedworld transport challenge: A visually guided task-and-motion planning benchmark towards physically realistic embodied ai. Chuang Gan et al. 2022 International conference on robotics and automation (ICRA) 2022. [[paper](LINK)]
 4. Arnold: A benchmark for language-grounded task learning with continuous states in realistic 3d scenes. Ran Gong et al. ICCV 2023. [[paper](LINK)]
 5. EMIF-Bench: A Benchmark for Embodied Multi-Modal Instruction Following. Qin Yixin et al. 2024 21st International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP) 2024. [[paper](LINK)]
