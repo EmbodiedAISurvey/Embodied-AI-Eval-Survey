@@ -469,7 +469,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 19. Embodiedbench: Comprehensive benchmarking multi-modal large language models for vision-driven embodied agents. Rui Yang et al. ICML 2025. [[paper](https://arxiv.org/abs/2502.09560)][[projectpage](https://embodiedbench.github.io/)][[data](https://huggingface.co/EmbodiedBench)][[GitHub](https://github.com/EmbodiedBench/EmbodiedBench)]
 20. SoMi-ToM: Evaluating Multi-Perspective Theory of Mind in Embodied Social Interactions. Xianzhe Fan et al. NeurIPS 2025. [[paper](https://arxiv.org/abs/2506.23046)][[data](https://huggingface.co/datasets/SoMi-ToM/SoMi-ToM)][[GitHub](https://github.com/XianzheFan/SoMi-ToM)]
 21. Can Vision Language Models Understand Mimed Actions?. Hyundong Justin Cho et al. ACL 2025. [[paper](https://aclanthology.org/2025.findings-acl.1372/)][[projectpage](https://justin-cho.com/mime)][[GitHub](https://github.com/wise-east/mime)][[poster](https://justin-cho.com/assets/mime/poster.pdf)]
->>>>>>> cb207b430b01082ba979f3950d414a07006a264a
+<!-- >>>>>>> cb207b430b01082ba979f3950d414a07006a264a -->
 
 <!-- ## 📚 How to evaluate <a id="How-to-evaluate"></a> 
 
