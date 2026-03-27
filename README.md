@@ -162,6 +162,8 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 14. GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models. Qinghongbing Xie et al. arXiv 2025. [[paper](https://arxiv.org/abs/2510.07791)][[code&benchmark](https://github.com/X-Luffy/GTR-Bench)]
 15. Alfred: A benchmark for interpreting grounded instructions for everyday tasks. Mohit Shridhar et al. CVPR 2020. [[paper](https://arxiv.org/abs/1912.01734)][[projectpage](https://askforalfred.com/)]
 16. Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks. Oier Mees et al. IEEE Robotics and Automation Letters 2022. [[paper](https://arxiv.org/abs/2112.03227)][[projectpage](http://calvin.cs.uni-freiburg.de/)]
+17. RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete. Ji et al. CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.html)][[projectpage](https://superrobobrain.github.io/)]
+18. Social Norm Reasoning in Multimodal Language Models: An Evaluation. Chowdhury et al. ICAART 2026. [[paper](https://arxiv.org/abs/2603.03590)]
 
 #### Planning Grounding and the Execution Gap
 
@@ -180,6 +182,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 13. PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly. Liang Ma et al. arXiv 2025. [[paper](https://arxiv.org/abs/2506.08708)][[projectpage](https://phyblock.github.io/)]
 14. MAP-THOR: Benchmarking Long-Horizon Multi-Agent Planning Frameworks in Partially Observable Environments. Siddharth Nayak et al. Venue 202X. [[paper](https://openreview.net/forum?id=ZygZN5egzy)]
 15. RoVer: Robot Reward Model as Test-Time Verifier for Vision-Language-Action Model. Mingtong Dai et al. arXiv 2025. [[paper](https://arxiv.org/abs/2510.10975)]
+16. Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test. Fan et al. arXiv 2026. [[paper](https://arxiv.org/abs/2601.04137)]
 
 #### Dynamic Adaptation and Closed-Loop Correction
 1. Mind and motion aligned: a joint evaluation ISAACSIM benchmark for task planning and low-level policies in mobile manipulation. Nikita Kachaev et al. arXiv 2025. [[paper](https://arxiv.org/abs/2508.15663)]
@@ -217,6 +220,8 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 9. Benchmarking vision, language, \& action models on robotic learning tasks. Pranav Guruprasad et al. arXiv 2024. [[paper](https://arxiv.org/abs/2411.05821)]
 10. Embodied Perception for Test-time Grasping Detection Adaptation with Knowledge Infusion. Jin Liu et al. arXiv 2025. [[paper](https://arxiv.org/abs/2504.04795)]
 11. EnvTrace: Simulation-Based Semantic Evaluation of LLM Code via Execution Trace Alignment--Demonstrated at Synchrotron Beamlines. Noah van der Vleuten et al. arXiv 2025. [[paper](https://arxiv.org/abs/2511.09964)][[GitHub](https://github.com/CFN-softbio/EnvTrace)]
+12. Rethinking Video Generation Model for the Embodied World. Deng et al. arXiv 2026. [[paper](https://arxiv.org/abs/2601.15282)][[projectpage](https://dagroup-pku.github.io/ReVidgen.github.io/)]
+13. DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping. Zhong et al. AAAI 2026. [[paper](https://arxiv.org/abs/2502.20900)][[projectpage](https://dexgraspvla.github.io/)]
 
 #### Object Manipulation and Navigation
 1. Rlbench: The robot learning benchmark \& learning environment. Stephen James et al. IEEE Robotics and Automation Letters 2020. [[paper](https://arxiv.org/abs/1909.12271)][[projectpage](https://sites.google.com/view/rlbench)][[code](https://github.com/stepjam/RLBench)]
@@ -235,8 +240,12 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 14. SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration. Yan Zhuang et al. arXiv 2025. [[paper](https://arxiv.org/abs/2512.10046)][[projectpage](https://scai.cs.jhu.edu/projects/SimWorldRobotics/)]
 15. Uav-on: A benchmark for open-world object goal navigation with aerial agents. Jianqiang Xiao et al. Proceedings of the 33rd ACM International Conference on Multimedia 2025. [[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3758251)][[code&benchmark](https://github.com/Kyaren/UAV_ON)]
 16. Goat-bench: A benchmark for multi-modal lifelong navigation. Mukul Khanna et al. CVPR 2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Khanna_GOAT-Bench_A_Benchmark_for_Multi-Modal_Lifelong_Navigation_CVPR_2024_paper.html)][[projectpage](https://mukulkhanna.github.io/goat-bench/)]
-
-#### Collaboration and Interactive Systems
+17. TongSIM: A General Platform for Simulating Intelligent Machines. Sun et al. arXiv 2025. [[paper](https://arxiv.org/abs/2512.20206)][[Github](https://github.com/bigai-ai/tongsim)]
+18. RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots. Nasiriany et al. ICLR 2026. [[paper](https://arxiv.org/abs/2603.04356)][[Github](https://robocasa.ai/)]
+19. BEDI: a comprehensive benchmark for evaluating embodied agents on UAVs. Guo et al. ISPRS 2026. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271626000134)][[Github](https://github.com/lostwolves/BEDI)]
+20. User-Centric Object Navigation: A Benchmark with Integrated User Habits for Personalized Embodied Object Search. Wang et al. ICRA 2026. [[paper](https://arxiv.org/abs/2602.06459)][[Github](https://github.com/whcpumpkin/User-Centric-Object-Navigation)]
+21. ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving. Wang et al. arXiv 2026. [[paper](https://arxiv.org/abs/2601.19582)]
+#### Human-in-the-Loop Evaluation and Interactive Execution
 1. Improving Cooperation in Collaborative Embodied AI. Hima Jacob Leven Suprabha et al. arXiv 2025. [[paper](https://link.springer.com/chapter/10.1007/978-3-032-07938-1_13)][[GitHub](https://github.com/Himajacob/Co-LLM-Agents)][[YouTube](https://www.youtube.com/watch?v=MtP8BH7kYsE)]
 2. Benchmark real-time adaptation and communication capabilities of embodied agent in collaborative scenarios. Shipeng Liu et al. arXiv 2024. [[paper](https://arxiv.org/abs/2412.00435)]
 3. Robofactory: Exploring embodied agent collaboration with compositional constraints. Yiran Qin et al. arXiv 2025. [[paper](https://arxiv.org/abs/2503.16408)][[projectpage](https://iranqin.github.io/robofactory/)]
@@ -247,6 +256,8 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 8. Salsa as a Nonverbal Embodied Language--The CoMPAS3D Dataset and Benchmarks. Bermet Burkanova et al. arXiv 2025. [[paper](https://arxiv.org/abs/2507.19684)]
 9. DialNav: Multi-turn Dialog Navigation with a Remote Guide. Leekyeung Han et al. ICCV 2025. [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Han_DialNav_Multi-turn_Dialog_Navigation_with_a_Remote_Guide_ICCV_2025_paper.html)][[projectpage](https://happilee12.github.io/DialNav/)]
 10. Switch-JustDance: Benchmarking Whole Body Motion Tracking Policies Using a Commercial Console Game. Jeonghwan Kim et al. arXiv 2025. [[paper](https://arxiv.org/abs/2511.17925)]
+11. WorldGym: World Model as An Environment for Policy Evaluation. Quevedo et al. arXiv 2025.[[paper](https://arxiv.org/pdf/2506.00613)][[projectpage](https://world-model-eval.github.io/)]
+12. VirtualEnv: A Platform for Embodied AI Research. Swain et al. arXiv 2025. [[paper](https://arxiv.org/abs/2601.07553)]
 
 ### Reliability and Generalization <a id="Reliability-and-generalization"></a>
 #### Safety
