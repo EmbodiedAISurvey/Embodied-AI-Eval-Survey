@@ -60,6 +60,9 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 16. CaptionQA: Is Your Caption as Useful as the Image Itself?. Shijia Yang et al. arXiv 2025. [[paper](https://arxiv.org/abs/2511.21025)][[code](https://github.com/bronyayang/CaptionQA)]
 17. ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models. Dingming Li et al. arXiv 2025. [[paper](https://arxiv.org/abs/2505.21500)]
 18. InternSpatial: A Comprehensive Dataset for Spatial Reasoning in Vision-Language Models. Nianchen Deng et al. arXiv 2025. [[paper](https://arxiv.org/abs/2506.18385)]
+19. RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics. Song et al. CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Song_RoboSpatial_Teaching_Spatial_Understanding_to_2D_and_3D_Vision-Language_Models_CVPR_2025_paper.html)][[projectpage](https://chanh.ee/RoboSpatial/)]
+20. EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering. Zhou et al. CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_EgoTextVQA_Towards_Egocentric_Scene-Text_Aware_Video_Question_Answering_CVPR_2025_paper.html)][[code](https://github.com/zhousheng97/EgoTextVQA)]
+21. RynnBrain: Open Embodied Foundation Models. Dang et al. arXiv 2026. [[paper](https://arxiv.org/abs/2602.14979)][[projectpage](https://alibaba-damo-academy.github.io/RynnBrain.github.io/)]
 
 #### Scene and Physics Understanding
 1. Llm meets scene graph: Can large language models understand and generate scene graphs? a benchmark and empirical study. Dongil Yang et al. ACL 2025. [[paper](https://aclanthology.org/2025.acl-long.1036/)][[benchmark](https://tsg-bench.netlify.app/)][[code](https://github.com/docworlds/tsg-bench)]
@@ -70,6 +73,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 6. Text-Scene: A Scene-to-Language Parsing Framework for 3D Scene Understanding. Haoyuan Li et al. arXiv 2025. [[paper](https://arxiv.org/abs/2509.16721)]
 7. Wow: Towards a world omniscient world model through embodied interaction. Xiaowei Chi et al. arXiv 2025. [[paper](https://arxiv.org/abs/2509.22642)]
 8. PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs. Zixin Zhang et al. arXiv 2025. [[paper](https://arxiv.org/abs/2510.09507)][[projectpage](https://github.com/EnVision-Research/PhysToolBench)]
+9. BabyVision: Visual Reasoning Beyond Language. Chen et al. arXiv 2026. [[paper](https://arxiv.org/abs/2601.06521)][[projectpage](https://unipat.ai/blog/BabyVision)]
 
 
 #### Social and Human-like Understanding
@@ -106,6 +110,10 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 20. Urbanvideo-bench: Benchmarking vision-language models on embodied intelligence with video data in urban spaces. Baining Zhao et al. arXiv 2025. [[paper](https://arxiv.org/abs/2503.06157)][[projectpage](https://embodiedcity.github.io/UrbanVideo-Bench/)][[data](https://huggingface.co/datasets/EmbodiedCity/UrbanVideo-Bench)][[code](https://github.com/EmbodiedCity/UrbanVideo-Bench.code)]
 21. Embodiedbench: Comprehensive benchmarking multi-modal large language models for vision-driven embodied agents. Rui Yang et al. ICML 2025. [[paper](https://arxiv.org/abs/2502.09560)][[projectpage](https://embodiedbench.github.io/)][[data](https://huggingface.co/EmbodiedBench)][[GitHub](https://github.com/EmbodiedBench/EmbodiedBench)]
 22. StarBench: A Turn-Based RPG Benchmark for Agentic Multimodal Decision-Making and Information Seeking. Haoran Zhang et al. arXiv 2025. [[paper](https://arxiv.org/abs/2510.18483)]
+23. WorldVQA: Measuring Atomic World Knowledge in Multimodal Large Language Models. Zhou et al. arXiv 2026. [[paper](https://arxiv.org/abs/2602.02537)][[projectpage](https://worldvqa2026.github.io/WorldVQA/)][[data](https://huggingface.co/datasets/moonshotai/WorldVQA)][[GitHub](https://github.com/MoonshotAI/WorldVQA/)]
+24. EgoTaskQA: Understanding Human Tasks in Egocentric Videos. jia et al. NeurIPS 2022. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/161c94a58ca25bafcaf47893e8233deb-Abstract-Datasets_and_Benchmarks.html)][[projectpage](https://sites.google.com/view/egotaskqa)]
+25. SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models. Xu et al. arXiv 2025. [[paper](https://arxiv.org/abs/2602.02537)][[data](https://huggingface.co/datasets/MBZUAI/SocialMaze)]
+26. EgoThink: Evaluating First-Person Perspective Thinking Capability of Vision-Language Models. Cheng et al. CVPR 2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_EgoThink_Evaluating_First-Person_Perspective_Thinking_Capability_of_Vision-Language_Models_CVPR_2024_paper.html)][[projectpage](https://adacheng.github.io/EgoThink/)]
 
 #### Spatiotemporal Reasoning
 1. Open3dvqa: A benchmark for comprehensive spatial reasoning with multimodal large language model in open space. Weichen Zhang et al. arXiv 2025. [[paper](https://arxiv.org/abs/2503.11094)][[benchmark](https://github.com/EmbodiedCity/Open3D-VQA.code)]
@@ -128,6 +136,13 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 18. AViLA: Asynchronous Vision-Language Agent for Streaming Multimodal Data Interaction. Gengyuan Zhang et al. arXiv 2025. [[paper](https://arxiv.org/abs/2506.18472)]
 19. Eyes wide open: Ego proactive video-llm for streaming video. Yulin Zhang et al. NeurIPS 2025. [[paper](https://arxiv.org/abs/2510.14560)][[projectpage](https://zhangyl4.github.io/publications/eyes-wide-open/)]
 20. RoboSeek: You Need to Interact with Your Objects. Yibo Peng et al. arXiv 2025. [[paper](https://arxiv.org/abs/2509.17783)][[projectpage](https://russderrick.github.io/Roboseek/)]
+21. MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence. Yang et al. arXiv 2025. [[paper](https://arxiv.org/abs/2505.23764)][[projectpage](https://runsenxu.com/projects/MMSI_Bench/)]
+22. Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces. Yang et al. arXiv 2024.  [[paper](https://arxiv.org/abs/2412.14171)][[projectpage](https://vision-x-nyu.github.io/thinking-in-space.github.io/)]
+23. Where Did I Leave My Keys? - Episodic-Memory-Based Question Answering on Egocentric Videos. Bärmann & Waibel. CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022W/Ego4D-EPIC/html/Barmann_Where_Did_I_Leave_My_Keys_-_Episodic-Memory-Based_Question_Answering_CVPRW_2022_paper.html)][[code]([https://vision-x-nyu.github.io/thinking-in-space.github.io/](https://github.com/lbaermann/qaego4d))]
+24. EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding. Mangalam et al. NeurIPS 2023. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/90ce332aff156b910b002ce4e6880dec-Abstract-Datasets_and_Benchmarks.html)][[projectpage](https://egoschema.github.io/)]
+25. MVBench: A Comprehensive Multi-modal Video Understanding Benchmark. Li et al. CVPR 2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.html)][[code](https://github.com/OpenGVLab/Ask-Anything)]
+26. Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis. Fu et al. CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Fu_Video-MME_The_First-Ever_Comprehensive_Evaluation_Benchmark_of_Multi-modal_LLMs_in_CVPR_2025_paper.html)][[projectpage](https://video-mme.github.io/)]
+27. A Very Big Video Reasoning Suite. Wang  et al. NeurIPS 2023. [[paper](https://arxiv.org/pdf/2602.20159)][[projectpage](https://video-reason.com/)]
 
 ### Task Planning and Decision-Making <a id="task-planning-and-decision-making"></a>
 #### Long-Horizon Dependency and Episodic Memory
