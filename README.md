@@ -150,20 +150,19 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 2. Behavior: Benchmark for everyday household activities in virtual, interactive, and ecological environments. Sanjana Srivastava et al. Conference on robot learning 2022. [[paper](https://proceedings.mlr.press/v164/srivastava22a.html)][[projectpage](https://behavior.stanford.edu/)]
 3. Behavior-1k: A human-centered, embodied ai benchmark with 1,000 everyday activities and realistic simulation. Chengshu Li et al. arXiv 2024. [[paper](https://arxiv.org/abs/2403.09227)][[projectpage](https://behavior.stanford.edu/)]
 4. ManiTaskGen: A Comprehensive Task Generator for Benchmarking and Improving Vision-Language Agents on Embodied Decision-Making. Liu Dai et al. arXiv 2025. [[paper](https://arxiv.org/abs/2505.20726)][[projectpage](https://manitaskgen.github.io/)][[code](https://github.com/bbbbbMatrix/ManiTaskGen)]
-5. Cookbench: A long-horizon embodied planning benchmark for complex cooking scenarios. Muzhen Cai et al. arXiv 2025. [[paper](https://arxiv.org/abs/2508.03232)]
-6. Vlabench: A large-scale benchmark for language-conditioned robotics manipulation with long-horizon reasoning tasks. Shiduo Zhang et al. ICCV 2025. [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_VLABench_A_Large-Scale_Benchmark_for_Language-Conditioned_Robotics_Manipulation_with_Long-Horizon_ICCV_2025_paper.html)][[projectpage](https://vlabench.github.io/)]
-7. Actplan-1k: Benchmarking the procedural planning ability of visual language models in household activities. Ying Su et al. EMNLP 2024. [[paper](https://aclanthology.org/2024.emnlp-main.833/)]
-8. Egoplan-bench: Benchmarking multimodal large language models for human-level planning. Yi Chen et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.06722)][[projectpage](https://chenyi99.github.io/ego_plan/)][[GitHub](https://github.com/ChenYi99/EgoPlan)]
-9. Videgothink: Assessing egocentric video understanding capabilities for embodied ai. Sijie Cheng et al. arXiv 2024. [[paper](https://arxiv.org/abs/2410.11623)]
-10. Bear: Benchmarking and enhancing multimodal language models for atomic embodied capabilities. Yu Qi et al. arXiv 2025. [[paper](https://arxiv.org/abs/2510.08759)][[projectpage](https://bear-official66.github.io/)]
-11. Lvbench: An extreme long video understanding benchmark. Weihan Wang et al. ICCV 2025. [[paper](https://arxiv.org/abs/2406.08035)]
-12. X-lebench: A benchmark for extremely long egocentric video understanding. Wenqi Zhou et al. arXiv 2025. [[paper](https://arxiv.org/abs/2501.06835)][[code](https://github.com/X-Intelligence-Labs/X-LeBench)]
-13. FindingDory: A Benchmark to Evaluate Memory in Embodied Agents. Karmesh Yadav et al. arXiv 2025. [[paper](https://arxiv.org/abs/2506.15635)][[projectpage](https://findingdory-benchmark.github.io/)]
-14. GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models. Qinghongbing Xie et al. arXiv 2025. [[paper](https://arxiv.org/abs/2510.07791)][[code&benchmark](https://github.com/X-Luffy/GTR-Bench)]
-15. Alfred: A benchmark for interpreting grounded instructions for everyday tasks. Mohit Shridhar et al. CVPR 2020. [[paper](https://arxiv.org/abs/1912.01734)][[projectpage](https://askforalfred.com/)]
-16. Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks. Oier Mees et al. IEEE Robotics and Automation Letters 2022. [[paper](https://arxiv.org/abs/2112.03227)][[projectpage](http://calvin.cs.uni-freiburg.de/)]
-17. RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete. Ji et al. CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.html)][[projectpage](https://superrobobrain.github.io/)]
-18. Social Norm Reasoning in Multimodal Language Models: An Evaluation. Chowdhury et al. ICAART 2026. [[paper](https://arxiv.org/abs/2603.03590)]
+5. Vlabench: A large-scale benchmark for language-conditioned robotics manipulation with long-horizon reasoning tasks. Shiduo Zhang et al. ICCV 2025. [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_VLABench_A_Large-Scale_Benchmark_for_Language-Conditioned_Robotics_Manipulation_with_Long-Horizon_ICCV_2025_paper.html)][[projectpage](https://vlabench.github.io/)]
+6. Actplan-1k: Benchmarking the procedural planning ability of visual language models in household activities. Ying Su et al. EMNLP 2024. [[paper](https://aclanthology.org/2024.emnlp-main.833/)]
+7. Egoplan-bench: Benchmarking multimodal large language models for human-level planning. Yi Chen et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.06722)][[projectpage](https://chenyi99.github.io/ego_plan/)][[GitHub](https://github.com/ChenYi99/EgoPlan)]
+8. Videgothink: Assessing egocentric video understanding capabilities for embodied ai. Sijie Cheng et al. arXiv 2024. [[paper](https://arxiv.org/abs/2410.11623)]
+9. Bear: Benchmarking and enhancing multimodal language models for atomic embodied capabilities. Yu Qi et al. arXiv 2025. [[paper](https://arxiv.org/abs/2510.08759)][[projectpage](https://bear-official66.github.io/)]
+10. Lvbench: An extreme long video understanding benchmark. Weihan Wang et al. ICCV 2025. [[paper](https://arxiv.org/abs/2406.08035)]
+11. X-lebench: A benchmark for extremely long egocentric video understanding. Wenqi Zhou et al. arXiv 2025. [[paper](https://arxiv.org/abs/2501.06835)][[code](https://github.com/X-Intelligence-Labs/X-LeBench)]
+12. FindingDory: A Benchmark to Evaluate Memory in Embodied Agents. Karmesh Yadav et al. arXiv 2025. [[paper](https://arxiv.org/abs/2506.15635)][[projectpage](https://findingdory-benchmark.github.io/)]
+13. GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models. Qinghongbing Xie et al. arXiv 2025. [[paper](https://arxiv.org/abs/2510.07791)][[code&benchmark](https://github.com/X-Luffy/GTR-Bench)]
+14. Alfred: A benchmark for interpreting grounded instructions for everyday tasks. Mohit Shridhar et al. CVPR 2020. [[paper](https://arxiv.org/abs/1912.01734)][[projectpage](https://askforalfred.com/)]
+15. Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks. Oier Mees et al. IEEE Robotics and Automation Letters 2022. [[paper](https://arxiv.org/abs/2112.03227)][[projectpage](http://calvin.cs.uni-freiburg.de/)]
+16. RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete. Ji et al. CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.html)][[projectpage](https://superrobobrain.github.io/)]
+17. Social Norm Reasoning in Multimodal Language Models: An Evaluation. Chowdhury et al. ICAART 2026. [[paper](https://arxiv.org/abs/2603.03590)]
 
 #### Planning Grounding and the Execution Gap
 
@@ -183,6 +182,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 14. MAP-THOR: Benchmarking Long-Horizon Multi-Agent Planning Frameworks in Partially Observable Environments. Siddharth Nayak et al. Venue 202X. [[paper](https://openreview.net/forum?id=ZygZN5egzy)]
 15. RoVer: Robot Reward Model as Test-Time Verifier for Vision-Language-Action Model. Mingtong Dai et al. arXiv 2025. [[paper](https://arxiv.org/abs/2510.10975)]
 16. Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test. Fan et al. arXiv 2026. [[paper](https://arxiv.org/abs/2601.04137)]
+17. Cookbench: A long-horizon embodied planning benchmark for complex cooking scenarios. Muzhen Cai et al. arXiv 2025. [[paper](https://arxiv.org/abs/2508.03232)]
 
 #### Dynamic Adaptation and Closed-Loop Correction
 1. Mind and motion aligned: a joint evaluation ISAACSIM benchmark for task planning and low-level policies in mobile manipulation. Nikita Kachaev et al. arXiv 2025. [[paper](https://arxiv.org/abs/2508.15663)]
@@ -199,13 +199,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 12. ManiTaskGen: A Comprehensive Task Generator for Benchmarking and Improving Vision-Language Agents on Embodied Decision-Making. Liu Dai et al. arXiv 2025. [[paper](https://arxiv.org/abs/2505.20726)][[projectpage](https://manitaskgen.github.io/)][[code](https://github.com/bbbbbMatrix/ManiTaskGen)]
 13. Embodied Perception for Test-time Grasping Detection Adaptation with Knowledge Infusion. Jin Liu et al. arXiv 2025. [[paper](https://arxiv.org/abs/2504.04795)]
 14. Mastering robot manipulation with multimodal prompts through pretraining and multi-task fine-tuning. Jiachen Li et al. arXiv 2023. [[paper](https://arxiv.org/abs/2310.09676)][[projectpage](https://midas-icml.github.io/)]
-#### Human-in-the-Loop Planning and Intent Alignment
-1. Long-horizon planning for multi-agent robots in partially observable environments. Sid Nayak et al. NeurIPS 2024. [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7d6e85e88495104442af94c98e899659-Abstract-Conference.html)][[code](https://github.com/nsidn98/LLaMAR)]
-2. CleanUpBench: Embodied Sweeping and Grasping Benchmark. Wenbo Li et al. arXiv 2025. [[paper](https://arxiv.org/abs/2508.05543)]
-3. Cookbench: A long-horizon embodied planning benchmark for complex cooking scenarios. Muzhen Cai et al. arXiv 2025. [[paper](https://arxiv.org/abs/2508.03232)]
-4. PersONAL: Towards a Comprehensive Benchmark for Personalized Embodied Agents. Filippo Ziliotto et al. arXiv 2025. [[paper](https://arxiv.org/abs/2509.19843)][[data](https://github.com/ZiliottoFilippoDev/PersONAL)]
-5. Dialfred: Dialogue-enabled agents for embodied instruction following. Xiaofeng Gao et al. IEEE Robotics and Automation Letters 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9837390)][[code&data](http://github.com/xfgao/DialFRED)]
-6. Towards autonomous micromobility through scalable urban simulation. Wayne Wu et al. CVPR 2025. [[paper](https://arxiv.org/abs/2505.00690)][[projectpage](https://metadriverse.github.io/urbansim/)]
+15. Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps. Nanye Ma et al. arXiv 2025. [[paper](https://arxiv.org/abs/2501.09732)]
 
 ### Action Execution and Control <a id="action-execution-and-control"></a>
 #### Control Policies and Physical Dynamics
@@ -258,6 +252,12 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 10. Switch-JustDance: Benchmarking Whole Body Motion Tracking Policies Using a Commercial Console Game. Jeonghwan Kim et al. arXiv 2025. [[paper](https://arxiv.org/abs/2511.17925)]
 11. WorldGym: World Model as An Environment for Policy Evaluation. Quevedo et al. arXiv 2025.[[paper](https://arxiv.org/pdf/2506.00613)][[projectpage](https://world-model-eval.github.io/)]
 12. VirtualEnv: A Platform for Embodied AI Research. Swain et al. arXiv 2025. [[paper](https://arxiv.org/abs/2601.07553)]
+13. Long-horizon planning for multi-agent robots in partially observable environments. Sid Nayak et al. NeurIPS 2024. [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7d6e85e88495104442af94c98e899659-Abstract-Conference.html)][[code](https://github.com/nsidn98/LLaMAR)]
+14. CleanUpBench: Embodied Sweeping and Grasping Benchmark. Wenbo Li et al. arXiv 2025. [[paper](https://arxiv.org/abs/2508.05543)]
+16. PersONAL: Towards a Comprehensive Benchmark for Personalized Embodied Agents. Filippo Ziliotto et al. arXiv 2025. [[paper](https://arxiv.org/abs/2509.19843)][[data](https://github.com/ZiliottoFilippoDev/PersONAL)]
+17. Dialfred: Dialogue-enabled agents for embodied instruction following. Xiaofeng Gao et al. IEEE Robotics and Automation Letters 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9837390)][[code&data](http://github.com/xfgao/DialFRED)]
+18. Towards autonomous micromobility through scalable urban simulation. Wayne Wu et al. CVPR 2025. [[paper](https://arxiv.org/abs/2505.00690)][[projectpage](https://metadriverse.github.io/urbansim/)]
+
 
 ### Reliability and Generalization <a id="Reliability-and-generalization"></a>
 #### Safety
@@ -312,6 +312,8 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 26. ResponsibleRobotBench: Benchmarking Responsible Robot Manipulation using Multi-modal Large Language Models. Lei Zhang et al. arXiv 2025. [[paper](https://www.arxiv.org/abs/2512.04308)][[projectpage](https://sites.google.com/view/responsible-robotbench)]
 27. Benchmarking LLMs in an Embodied Environment for Blue Team Threat Hunting. Xiaoqun Liu et al. arXiv 2025. [[paper](https://arxiv.org/abs/2505.11901)]
 28. Rearrangement: A challenge for embodied ai. Dhruv Batra et al. arXiv 2020. [[paper](https://arxiv.org/abs/2011.01975)]
+29. SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning. Zhang et al. NeurIPS 2025. [[paper](https://arxiv.org/abs/2503.03480)][[projectpage](https://pku-safevla.github.io/)]
+    
 #### Robustness
 1. From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking. Xiaohao Xu et al. arXiv 2024. [[paper](https://api.semanticscholar.org/CorpusID:270703356)]
 [[GitHub](https://github.com/Xiaohao-Xu/SLAM-under-Perturbation)]
@@ -359,6 +361,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 [[data](https://huggingface.co/collections/Sylvest/libero-plus)]
 30. Bring the Apple, Not the Sofa: Impact of Irrelevant Context in Embodied AI Commands on VLA Models. Daria Pugacheva et al. arXiv 2025. [[paper](https://arxiv.org/abs/2510.07067)]
 31. Evaluating uncertainty and quality of visual language action-enabled robots. Pablo Valle et al. arXiv 2025. [[paper](https://arxiv.org/abs/2507.17049)]
+32. Trustworthy Evaluation of Robotic Manipulation: A New Benchmark and AutoEval Methods. Liu et al. arXiv 2026. [[paper](https://arxiv.org/abs/2601.18723)][[projectpage](https://term-bench.github.io/)]
 
 #### Generalization
 1. Towards generalizable vision-language robotic manipulation: A benchmark and llm-guided 3d policy. Ricardo Garcia et al. 2025 IEEE International Conference on Robotics and Automation (ICRA) 2025. [[paper](https://arxiv.org/pdf/2410.01345)][[projectpage](https://www.di.ens.fr/willow/research/gembench/)]
@@ -414,6 +417,9 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 30. UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos. Mingxuan Liu et al. arXiv 2025. [[paper](https://arxiv.org/abs/2510.15018)][[projectpage](https://urbanverseproject.github.io/)]
 31. 3d-grand: A million-scale dataset for 3d-llms with better grounding and less hallucination. Jianing Yang et al. CVPR 2025. [[paper](https://arxiv.org/abs/2406.05132)][[projectpage](https://3d-grand.github.io/)]
 [[code](https://github.com/sled-group/3D-GRAND)]
+32. LogicEnvGen: Task-Logic Driven Generation of Diverse Simulated Environments for Embodied AI. Wang et al. arXiv 2025. [[paper](https://arxiv.org/abs/2601.13556)]
+33. BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning. Eric Jang et al. PMLR 2022. [[paper](https://proceedings.mlr.press/v164/jang22a.html)]
+34. VLA-Arena: An Open-Source Framework for Benchmarking Vision-Language-Action Models. Zhang et al. arXiv 2025. [[paper](https://arxiv.org/abs/2512.22539)]
 
 ## 📚 Where to evaluate <a id="where-to-evaluate"></a>
 
